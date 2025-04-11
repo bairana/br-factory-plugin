@@ -1,0 +1,9 @@
+{
+    "name": "br-factory-plugin",
+    "version": "0.0.1",
+    "author": "白染",
+    "type": "module",
+    "dependencies": {
+        "yaml": "^2.7.1"
+    }
+}
